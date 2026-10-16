@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "akeda-erp": {
-      "url": "https://erp.akeda.ru/mcp",
+      "url": "https://erp.akeda.ru/mcp?session=stateless",
       "auth": "oauth",
       "default_tools_approval_mode": "writes"
     }
